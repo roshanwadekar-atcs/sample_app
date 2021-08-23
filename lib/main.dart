@@ -34,6 +34,7 @@ class _HomePageState extends State<HomePage> {
       body: Column(
         children: [
           Text('Hello'),
+          Text("Hello User"),
         ],
       ),
     );
