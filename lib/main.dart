@@ -37,7 +37,8 @@ class _HomePageState extends State<HomePage> {
           Text("Hello User"),
           Text("From release"),
           Text("Created new Branch"),
-          Text("Created new Text")
+          Text("Created new Text"),
+          Text("hgcyjkefrv")
 
 
         ],
